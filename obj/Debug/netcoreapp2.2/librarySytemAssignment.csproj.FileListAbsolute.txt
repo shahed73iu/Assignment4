@@ -1,0 +1,11 @@
+C:\Users\Shahed\source\repos\librarySytemAssignment\bin\Debug\netcoreapp2.2\librarySytemAssignment.deps.json
+C:\Users\Shahed\source\repos\librarySytemAssignment\bin\Debug\netcoreapp2.2\librarySytemAssignment.runtimeconfig.json
+C:\Users\Shahed\source\repos\librarySytemAssignment\bin\Debug\netcoreapp2.2\librarySytemAssignment.runtimeconfig.dev.json
+C:\Users\Shahed\source\repos\librarySytemAssignment\bin\Debug\netcoreapp2.2\librarySytemAssignment.dll
+C:\Users\Shahed\source\repos\librarySytemAssignment\obj\Debug\netcoreapp2.2\librarySytemAssignment.csprojAssemblyReference.cache
+C:\Users\Shahed\source\repos\librarySytemAssignment\obj\Debug\netcoreapp2.2\librarySytemAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Shahed\source\repos\librarySytemAssignment\obj\Debug\netcoreapp2.2\librarySytemAssignment.AssemblyInfoInputs.cache
+C:\Users\Shahed\source\repos\librarySytemAssignment\obj\Debug\netcoreapp2.2\librarySytemAssignment.AssemblyInfo.cs
+C:\Users\Shahed\source\repos\librarySytemAssignment\bin\Debug\netcoreapp2.2\librarySytemAssignment.pdb
+C:\Users\Shahed\source\repos\librarySytemAssignment\obj\Debug\netcoreapp2.2\librarySytemAssignment.dll
+C:\Users\Shahed\source\repos\librarySytemAssignment\obj\Debug\netcoreapp2.2\librarySytemAssignment.pdb
